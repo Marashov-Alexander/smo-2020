@@ -1,0 +1,5 @@
+suppliers set 7
+suppliers_intensity set 3_5_2_2_1_1_1
+consumers from 1 times 2 by 1
+consumers_intensity from 1 times 9 by 1
+buffer from 4 times 3 by 4
